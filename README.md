@@ -20,12 +20,12 @@ To get started with this project, follow these steps:
 1. Fork and clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/E-commerce-website-using-React-Redux.git
+   git clone https://github.com/OfficialOzioma/reactjs-ecommerce
    ```
 2. Install the required dependencies:
    
    ```bash
-   cd E-commerce-website-using-React-Redux
+   cd reactjs-ecommerce
    npm install
    ```
 3. Start the development server:
