@@ -51,7 +51,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ##  Snapshot 
 
-<img width="1258" alt="Screenshot 2023-08-13 at 11 05 22 PM" src="https://github.com/OfficialOzioma/reactjs-ecommerce/assets/28990981/bc2930a2-c1a8-48ee-83dd-0821072366a6">
+<img width="1258" alt="Screenshot 2023-08-13 at 11 05 22 PM" src="https://github.com/OfficialOzioma/reactjs-ecommerce/assets/28990981/1f40e1d4-965d-41c6-9e8e-f18729ae6289">
 <img width="1276" alt="Screenshot 2023-08-13 at 11 05 49 PM" src="https://github.com/khushi2706/E-commerce-website-using-React-Redux/assets/67452985/081dc93b-f17b-4d12-a625-37ab05ef16f9">
 
 ## Contributing
